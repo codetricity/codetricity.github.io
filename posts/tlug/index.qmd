@@ -59,3 +59,10 @@ felt that the solution could be useful to other people. The desire to help peopl
 is what keeps us together.  Despite the obvious problems with potential negative
 comments and support time-sinks, people around the world still have the courage
 and will to release their software to the world
+
+---
+
+More pictures
+
+![Alberto Tomita, network security expert. computer vision PhD. Strong drinker](alberto.png)
+
