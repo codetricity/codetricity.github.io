@@ -12,25 +12,25 @@ Innovation was thick in the air.  You breathed in and there it was. A new idea. 
 A new project to solve a problem that would change the world.
 
 I had been here 30 years ago. The vibe was the same.  A disdain for the old inefficient ways, a
-certain cockiness, a hint of arrogance that normal people could build someething cool.
-Three decades ago, a young group of TLUGers ignored convention and started companies
-and projects. We changed the world. In 2026, people are still working on amazing things
-and trying to fix the problems of the world.
+certain cockiness, a hint of arrogance that normal people could build something cool.
+Three decades ago, a young group of TLUGers defied convention and started companies
+and projects. They changed the world. In 2026, people are still working on amazing things
+and fixing the problems of the world.
 
 ![Well into the night of beer and food](bigger-group.png)
 
-At every sip (or gulp) of beer, it felt like things were about to take off.
+At every sip,or gulp, of beer, it felt like a revolution was about to take off.
 
-Some of the interesting topics in 2026 thrown about as the beer flowed.
+Small discussions turned into big ideas.
 
 - Emacs versus vi in 2026.  Why people still use vim on the local desktop
 - How to create and maintain one of the world most widely  used Linux distributions in the world. Contribute
-  to societal good, have fun, and get paid to help the world in 2026.
+  to societal good, have fun, and get paid to help the world.
 - Linguistic theory impact on AI
 - Graph theory in the pharmaceutical industry
 - Bayesian inference versus language models
 
-![Build, create and build some more](jim-stephen-cliff-bryan.png)
+![Build, create and build some more. Jim Tittsler, Stephen Turnbull, Cliff Miller, Craig Oda, Bryan ](jim-stephen-cliff-bryan.png)
 
 After the 2nd dai-jouki (large beer mug), the nostalgic tales of the past
 came up.  We discussed:
@@ -56,9 +56,12 @@ encountered and they solved the problem for themselves.
 Some people took the next step and published their software as open source,
 not for fame or money.  People just
 felt that the solution could be useful to other people. The desire to help people
-is what keeps us together.  Despite the obvious problems with potential negative
+is what keeps us together.  Despite the problems with potential negative
 comments and support time-sinks, people around the world still have the courage
 and will to release their software to the world
+
+The next [TLUG](https://tlug.jp) meeting on on July 11, 2026. Sign up
+on [Connpass](https://tlug.connpass.com/).
 
 ---
 
