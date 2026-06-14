@@ -1,0 +1,31 @@
+---
+title: "About"
+image: assets/logo-square.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/codetricity
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/craigoda/
+    - icon: rss
+      text: RSS
+      href: index.xml
+
+---
+
+## Oda World
+
+**Oda World** is a personal blog about technology, innovation, and ideas across borders.
+
+The focus here is on work and thinking that doesn't stay in one lane — software and systems, design and product, and the connections between cultures, tools, and ways of building.
+
+### What you'll find here
+
+- Notes on tools, workflows, and software
+- Reflections on innovation, design, and craft
+- Ideas worth sharing — from experiments, projects, and conversations
+
+If something here sparks a thought or a conversation, that's the whole point.

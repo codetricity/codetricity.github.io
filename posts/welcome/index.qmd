@@ -1,0 +1,21 @@
+---
+title: "Welcome to Oda World"
+author: "Craig"
+date: "2026-06-11"
+categories: [meta, welcome]
+description: "Introducing Oda World — technology, innovation, and ideas across borders."
+---
+
+This is the first post on **Oda World**.
+
+The name reflects a simple ambition: write about technology and innovation in a way that crosses borders — between disciplines, cultures, and ways of thinking.
+
+### What to expect
+
+Over time, this blog will collect:
+
+- **Build logs** — notes from projects in progress
+- **Tooling** — workflows, scripts, and setups worth keeping
+- **Ideas** — perspectives that don't fit neatly in one category
+
+Thanks for reading. More soon.

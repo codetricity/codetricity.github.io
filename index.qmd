@@ -1,0 +1,18 @@
+---
+title: "Oda World"
+subtitle: "Technology, innovation, and ideas across borders."
+body-classes: home-page
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: "#f7f9fc"
+title-block-style: plain
+---
+
+Welcome to **Oda World** — a blog about technology, innovation, and ideas that travel across borders, disciplines, and perspectives.

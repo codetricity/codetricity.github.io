@@ -1,0 +1,38 @@
+color:
+  palette:
+    ink: "#1a3d6b"
+    slate: "#2c5282"
+    mist: "#e8edf5"
+    snow: "#f7f9fc"
+    cyan: "#0891b2"
+    teal: "#06b6d4"
+    ember: "#f97316"
+  background: snow
+  foreground: ink
+  primary: ink
+  secondary: cyan
+  tertiary: teal
+
+logo:
+  images:
+    square:
+      path: assets/logo-square.png
+      alt: "Oda World"
+    horizontal:
+      path: assets/logo-horizontal.png
+      alt: "Oda World — technology, innovation, and ideas across borders"
+  small: square
+  medium: square
+  large: horizontal
+
+typography:
+  fonts:
+    - family: Sora
+      source: google
+      weight: [400, 500, 600, 700]
+    - family: IBM Plex Mono
+      source: google
+      weight: [400, 500]
+  base: Sora
+  headings: Sora
+  monospace: IBM Plex Mono
