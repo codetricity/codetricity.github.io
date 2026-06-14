@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oda World</title>
+<link>https://codetricity.github.io/</link>
+<atom:link href="https://codetricity.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>Technology, innovation, and ideas across borders.</description>
+<image>
+<url>https://codetricity.github.io/assets/logo-square.png</url>
+<title>Oda World</title>
+<link>https://codetricity.github.io/</link>
+<height>129</height>
+<width>144</width>
+</image>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Sat, 13 Jun 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building This Blog with Quarto</title>
+  <dc:creator>Craig </dc:creator>
+  <link>https://codetricity.github.io/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This site is built with <a href="https://quarto.org/">Quarto</a>, a scientific and technical publishing system that works beautifully for blogs.</p>
+<section id="why-quarto" class="level3">
+<h3 class="anchored" data-anchor-id="why-quarto">Why Quarto?</h3>
+<ul>
+<li><strong>Markdown-first</strong> — write in <code>.qmd</code> files with optional code execution</li>
+<li><strong>Fast previews</strong> — <code>quarto preview</code> hot-reloads as you edit</li>
+<li><strong>Flexible output</strong> — HTML, PDF, slides, and more from the same source</li>
+<li><strong>Built-in blog features</strong> — listings, categories, RSS feeds, and search</li>
+</ul>
+</section>
+<section id="project-structure" class="level3">
+<h3 class="anchored" data-anchor-id="project-structure">Project structure</h3>
+<pre class="text"><code>.
+├── _quarto.yml       # site configuration
+├── _brand.yml        # colors, fonts, and branding
+├── index.qmd         # home page with post listing
+├── about.qmd         # about page
+├── posts/            # blog posts (one folder per post)
+└── styles.css        # custom styles</code></pre>
+</section>
+<section id="useful-commands" class="level3">
+<h3 class="anchored" data-anchor-id="useful-commands">Useful commands</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Preview locally with live reload</span></span>
+<span id="cb2-2"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">quarto</span> preview</span>
+<span id="cb2-3"></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Build the full site to _site/</span></span>
+<span id="cb2-5"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">quarto</span> render</span>
+<span id="cb2-6"></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Add a new post</span></span>
+<span id="cb2-8"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">quarto</span> create contents post <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">--title</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"My New Post"</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">--path</span> posts/my-new-post</span></code></pre></div></div>
+<p>Quarto handles the rest — navigation, RSS, and a clean reading experience out of the box.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>quarto</category>
+  <category>meta</category>
+  <guid>https://codetricity.github.io/posts/post-with-code/</guid>
+  <pubDate>Sat, 13 Jun 2026 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome to Oda World</title>
+  <dc:creator>Craig </dc:creator>
+  <link>https://codetricity.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post on <strong>Oda World</strong>.</p>
+<p>The name reflects a simple ambition: write about technology and innovation in a way that crosses borders — between disciplines, cultures, and ways of thinking.</p>
+<section id="what-to-expect" class="level3">
+<h3 class="anchored" data-anchor-id="what-to-expect">What to expect</h3>
+<p>Over time, this blog will collect:</p>
+<ul>
+<li><strong>Build logs</strong> — notes from projects in progress</li>
+<li><strong>Tooling</strong> — workflows, scripts, and setups worth keeping</li>
+<li><strong>Ideas</strong> — perspectives that don’t fit neatly in one category</li>
+</ul>
+<p>Thanks for reading. More soon.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <category>welcome</category>
+  <guid>https://codetricity.github.io/posts/welcome/</guid>
+  <pubDate>Wed, 10 Jun 2026 15:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
