@@ -39,7 +39,7 @@ came up.  We discussed:
 - organize information on Japan-specific Linux problems into a book for O'Reilly and have fun learning and teaching
 - going from dial-up modems as a child to building a binary Linux distribution that would impact the world
 
-![An exchange student who might just stay](simon.png)
+![Simon, an exchange student looking for a problem to solve](simon.png)
 
 I also met exchange students who are on their first steps of a marvelous adventure
 with Linux in Japan.
@@ -67,5 +67,5 @@ on [Connpass](https://tlug.connpass.com/).
 
 More pictures
 
-![Alberto Tomita, network security expert. computer vision PhD. Strong drinker](alberto.png)
+![Alberto Tomita, network security expert. computer vision PhD. Beer drinker](alberto.png)
 
