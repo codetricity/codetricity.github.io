@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oda World",
+    "section": "",
+    "text": "Welcome to Oda World — a blog about technology, innovation, and ideas that travel across borders, disciplines, and perspectives.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBuilding This Blog with Quarto\n\n\n\nquarto\n\nmeta\n\n\n\nHow Oda World is built with Quarto — a fast, reproducible publishing workflow.\n\n\n\n\n\nJun 14, 2026\n\n\nCraig\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Oda World\n\n\n\nmeta\n\nwelcome\n\n\n\nIntroducing Oda World — technology, innovation, and ideas across borders.\n\n\n\n\n\nJun 11, 2026\n\n\nCraig\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Building This Blog with Quarto",
+    "section": "",
+    "text": "This site is built with Quarto, a scientific and technical publishing system that works beautifully for blogs.\n\nWhy Quarto?\n\nMarkdown-first — write in .qmd files with optional code execution\nFast previews — quarto preview hot-reloads as you edit\nFlexible output — HTML, PDF, slides, and more from the same source\nBuilt-in blog features — listings, categories, RSS feeds, and search\n\n\n\nProject structure\n.\n├── _quarto.yml       # site configuration\n├── _brand.yml        # colors, fonts, and branding\n├── index.qmd         # home page with post listing\n├── about.qmd         # about page\n├── posts/            # blog posts (one folder per post)\n└── styles.css        # custom styles\n\n\nUseful commands\n# Preview locally with live reload\nquarto preview\n\n# Build the full site to _site/\nquarto render\n\n# Add a new post\nquarto create contents post --title \"My New Post\" --path posts/my-new-post\nQuarto handles the rest — navigation, RSS, and a clean reading experience out of the box."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to Oda World",
+    "section": "",
+    "text": "This is the first post on Oda World.\nThe name reflects a simple ambition: write about technology and innovation in a way that crosses borders — between disciplines, cultures, and ways of thinking.\n\nWhat to expect\nOver time, this blog will collect:\n\nBuild logs — notes from projects in progress\nTooling — workflows, scripts, and setups worth keeping\nIdeas — perspectives that don’t fit neatly in one category\n\nThanks for reading. More soon."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,26 +33,5 @@
     "title": "About",
     "section": "",
     "text": "Oda World is a personal blog about technology, innovation, and ideas across borders.\nThe focus here is on work and thinking that doesn’t stay in one lane — software and systems, design and product, and the connections between cultures, tools, and ways of building.\n\n\n\nNotes on tools, workflows, and software\nReflections on innovation, design, and craft\nIdeas worth sharing — from experiments, projects, and conversations\n\nIf something here sparks a thought or a conversation, that’s the whole point."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to Oda World",
-    "section": "",
-    "text": "This is the first post on Oda World.\nThe name reflects a simple ambition: write about technology and innovation in a way that crosses borders — between disciplines, cultures, and ways of thinking.\n\nWhat to expect\nOver time, this blog will collect:\n\nBuild logs — notes from projects in progress\nTooling — workflows, scripts, and setups worth keeping\nIdeas — perspectives that don’t fit neatly in one category\n\nThanks for reading. More soon."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Building This Blog with Quarto",
-    "section": "",
-    "text": "This site is built with Quarto, a scientific and technical publishing system that works beautifully for blogs.\n\nWhy Quarto?\n\nMarkdown-first — write in .qmd files with optional code execution\nFast previews — quarto preview hot-reloads as you edit\nFlexible output — HTML, PDF, slides, and more from the same source\nBuilt-in blog features — listings, categories, RSS feeds, and search\n\n\n\nProject structure\n.\n├── _quarto.yml       # site configuration\n├── _brand.yml        # colors, fonts, and branding\n├── index.qmd         # home page with post listing\n├── about.qmd         # about page\n├── posts/            # blog posts (one folder per post)\n└── styles.css        # custom styles\n\n\nUseful commands\n# Preview locally with live reload\nquarto preview\n\n# Build the full site to _site/\nquarto render\n\n# Add a new post\nquarto create contents post --title \"My New Post\" --path posts/my-new-post\nQuarto handles the rest — navigation, RSS, and a clean reading experience out of the box."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oda World",
-    "section": "",
-    "text": "Welcome to Oda World — a blog about technology, innovation, and ideas that travel across borders, disciplines, and perspectives.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBuilding This Blog with Quarto\n\n\n\nquarto\n\nmeta\n\n\n\nHow Oda World is built with Quarto — a fast, reproducible publishing workflow.\n\n\n\n\n\nJun 14, 2026\n\n\nCraig\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Oda World\n\n\n\nmeta\n\nwelcome\n\n\n\nIntroducing Oda World — technology, innovation, and ideas across borders.\n\n\n\n\n\nJun 11, 2026\n\n\nCraig\n\n\n\n\n\nNo matching items"
   }
 ]

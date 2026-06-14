@@ -16,8 +16,8 @@
 <height>129</height>
 <width>144</width>
 </image>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Sat, 13 Jun 2026 15:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sun, 14 Jun 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Building This Blog with Quarto</title>
   <dc:creator>Craig </dc:creator>
@@ -84,7 +84,7 @@ font-style: inherit;">--path</span> posts/my-new-post</span></code></pre></div><
   <category>quarto</category>
   <category>meta</category>
   <guid>https://codetricity.github.io/posts/post-with-code/</guid>
-  <pubDate>Sat, 13 Jun 2026 15:00:00 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to Oda World</title>
@@ -114,7 +114,7 @@ font-style: inherit;">--path</span> posts/my-new-post</span></code></pre></div><
   <category>meta</category>
   <category>welcome</category>
   <guid>https://codetricity.github.io/posts/welcome/</guid>
-  <pubDate>Wed, 10 Jun 2026 15:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

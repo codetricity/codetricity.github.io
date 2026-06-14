@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://codetricity.github.io/about.html</loc>
-    <lastmod>2026-06-14T00:16:03.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://codetricity.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-06-14T00:16:03.689Z</lastmod>
+    <loc>https://codetricity.github.io/index.html</loc>
+    <lastmod>2026-06-14T00:16:44.517Z</lastmod>
   </url>
   <url>
     <loc>https://codetricity.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-06-14T00:16:03.688Z</lastmod>
+    <lastmod>2026-06-14T00:16:44.518Z</lastmod>
   </url>
   <url>
-    <loc>https://codetricity.github.io/index.html</loc>
-    <lastmod>2026-06-14T00:16:03.687Z</lastmod>
+    <loc>https://codetricity.github.io/posts/welcome/index.html</loc>
+    <lastmod>2026-06-14T00:16:44.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codetricity.github.io/about.html</loc>
+    <lastmod>2026-06-14T00:16:44.516Z</lastmod>
   </url>
 </urlset>
