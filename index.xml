@@ -19,102 +19,69 @@
 <generator>quarto-1.9.38</generator>
 <lastBuildDate>Sun, 14 Jun 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Building This Blog with Quarto</title>
-  <dc:creator>Craig </dc:creator>
-  <link>https://codetricity.github.io/posts/post-with-code/</link>
+  <title>Innovation Knows No Boundaries</title>
+  <dc:creator>Craig Oda</dc:creator>
+  <link>https://codetricity.github.io/posts/tlug/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>This site is built with <a href="https://quarto.org/">Quarto</a>, a scientific and technical publishing system that works beautifully for blogs.</p>
-<section id="why-quarto" class="level3">
-<h3 class="anchored" data-anchor-id="why-quarto">Why Quarto?</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://codetricity.github.io/posts/tlug/initial-group.png" class="img-fluid figure-img"></p>
+<figcaption>Solving problems for the world</figcaption>
+</figure>
+</div>
+<p>Innovation was thick in the air. You breathed in and there it was. A new idea. A new company. A new project to solve a problem that would change the world.</p>
+<p>I had been here 30 years ago. The vibe was the same. A disdain for the old inefficient ways, a certain cockiness, a hint of arrogance that normal people could build someething cool. Three decades ago, a young group of TLUGers ignored convention and started companies and projects. We changed the world. In 2026, people are still working on amazing things and trying to fix the problems of the world.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://codetricity.github.io/posts/tlug/bigger-group.png" class="img-fluid figure-img"></p>
+<figcaption>Well into the night of beer and food</figcaption>
+</figure>
+</div>
+<p>At every sip (or gulp) of beer, it felt like things were about to take off.</p>
+<p>Some of the interesting topics in 2026 thrown about as the beer flowed.</p>
 <ul>
-<li><strong>Markdown-first</strong> — write in <code>.qmd</code> files with optional code execution</li>
-<li><strong>Fast previews</strong> — <code>quarto preview</code> hot-reloads as you edit</li>
-<li><strong>Flexible output</strong> — HTML, PDF, slides, and more from the same source</li>
-<li><strong>Built-in blog features</strong> — listings, categories, RSS feeds, and search</li>
+<li>Emacs versus vi in 2026. Why people still use vim on the local desktop</li>
+<li>How to create and maintain one of the world most widely used Linux distributions in the world. Contribute to societal good, have fun, and get paid to help the world in 2026.</li>
+<li>Linguistic theory impact on AI</li>
+<li>Graph theory in the pharmaceutical industry</li>
+<li>Bayesian inference versus language models</li>
 </ul>
-</section>
-<section id="project-structure" class="level3">
-<h3 class="anchored" data-anchor-id="project-structure">Project structure</h3>
-<pre class="text"><code>.
-├── _quarto.yml       # site configuration
-├── _brand.yml        # colors, fonts, and branding
-├── index.qmd         # home page with post listing
-├── about.qmd         # about page
-├── posts/            # blog posts (one folder per post)
-└── styles.css        # custom styles</code></pre>
-</section>
-<section id="useful-commands" class="level3">
-<h3 class="anchored" data-anchor-id="useful-commands">Useful commands</h3>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Preview locally with live reload</span></span>
-<span id="cb2-2"><span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">quarto</span> preview</span>
-<span id="cb2-3"></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Build the full site to _site/</span></span>
-<span id="cb2-5"><span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">quarto</span> render</span>
-<span id="cb2-6"></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Add a new post</span></span>
-<span id="cb2-8"><span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">quarto</span> create contents post <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">--title</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"My New Post"</span> <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">--path</span> posts/my-new-post</span></code></pre></div></div>
-<p>Quarto handles the rest — navigation, RSS, and a clean reading experience out of the box.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://codetricity.github.io/posts/tlug/jim-stephen-cliff-bryan.png" class="img-fluid figure-img"></p>
+<figcaption>Build, create and build some more</figcaption>
+</figure>
+</div>
+<p>After the 2nd dai-jouki (large beer mug), the nostalgic tales of the past came up. We discussed:</p>
+<ul>
+<li>how to start an open source company in Japan, solve a Japan-specific problem, take the solution global and raise $96M in venture funding</li>
+<li>organize information on Japan-specific Linux problems into a book for O’Reilly and have fun learning and teaching</li>
+<li>going from dial-up modems as a child to building a binary Linux distribution that would impact the world</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://codetricity.github.io/posts/tlug/simon.png" class="img-fluid figure-img"></p>
+<figcaption>An exchange student who might just stay</figcaption>
+</figure>
+</div>
+<p>I also met exchange students who are on their first steps of a marvelous adventure with Linux in Japan.</p>
+<p>Three of us at the table, had started our journey as exchange students at Sophia University.</p>
+<p>By the end of the night, everything felt good in the world. Yes, the beer, pizza, and sausages contributed to the warm feeling about the future of the world. But much more than that, I was reminded that is the connection between people that makes an impact on the world. Linux and open source started with one person feeling annoyed at a problem they personally encountered and they solved the problem for themselves.</p>
+<p>Some people took the next step and published their software as open source, not for fame or money. People just felt that the solution could be useful to other people. The desire to help people is what keeps us together. Despite the obvious problems with potential negative comments and support time-sinks, people around the world still have the courage and will to release their software to the world</p>
 
 
-</section>
 
  ]]></description>
-  <category>quarto</category>
-  <category>meta</category>
-  <guid>https://codetricity.github.io/posts/post-with-code/</guid>
+  <category>tokyo</category>
+  <category>japan</category>
+  <category>ai</category>
+  <category>linux</category>
+  <guid>https://codetricity.github.io/posts/tlug/</guid>
   <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Welcome to Oda World</title>
-  <dc:creator>Craig </dc:creator>
-  <link>https://codetricity.github.io/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is the first post on <strong>Oda World</strong>.</p>
-<p>The name reflects a simple ambition: write about technology and innovation in a way that crosses borders — between disciplines, cultures, and ways of thinking.</p>
-<section id="what-to-expect" class="level3">
-<h3 class="anchored" data-anchor-id="what-to-expect">What to expect</h3>
-<p>Over time, this blog will collect:</p>
-<ul>
-<li><strong>Build logs</strong> — notes from projects in progress</li>
-<li><strong>Tooling</strong> — workflows, scripts, and setups worth keeping</li>
-<li><strong>Ideas</strong> — perspectives that don’t fit neatly in one category</li>
-</ul>
-<p>Thanks for reading. More soon.</p>
-
-
-</section>
-
- ]]></description>
-  <category>meta</category>
-  <category>welcome</category>
-  <guid>https://codetricity.github.io/posts/welcome/</guid>
-  <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
