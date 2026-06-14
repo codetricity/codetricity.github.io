@@ -3,7 +3,7 @@ title: "Innovation Knows No Boundaries"
 author: "Craig Oda"
 date: "2026-06-14"
 categories: [tokyo, japan, ai, linux]
-description: "Tokyo Linux Users Group promotes technology, innovation, and ideas across borders."
+description: "Tokyo Linux Users Group promotes global friendships and the exchange of amazing ideas."
 ---
 
 ![Solving problems for the world](initial-group.png)
