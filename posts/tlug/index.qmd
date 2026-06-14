@@ -29,10 +29,11 @@ Small discussions turned into big ideas.
 - Linguistic theory impact on AI
 - Graph theory in the pharmaceutical industry
 - Bayesian inference versus language models
+- Making AI safer to make the world safer
 
 ![Build, create and build some more. Jim Tittsler, Stephen Turnbull, Cliff Miller, Craig Oda, Bryan Clemens, and tell me the names of the other people](jim-stephen-cliff-bryan.png)
 
-After the 2nd dai-jouki (large beer mug), the nostalgic tales of the past
+After the 2nd 大ジョッキ (large beer mug), the nostalgic tales of the past
 came up.  We discussed:
 
 - how to start an open source company in Japan, solve a Japan-specific problem, take the solution global and raise $96M in venture funding
@@ -48,8 +49,8 @@ Three of us at the table, had started our journey as exchange students at Sophia
 University.
 
 By the end of the night, everything felt good in the world.  Yes, the beer, pizza, and sausages
-contributed to the warm feeling about the future of the world.  But much more than
-that, I was reminded that is the connection between people that makes an impact on the world.
+contributed to the warm feeling about the future.  But much more than
+that, I was reminded that the connection between people is the engine to make an impact on the world.
 Linux and open source started with one person feeling annoyed at a problem they personally
 encountered and they solved the problem for themselves.
 
@@ -68,4 +69,12 @@ on [Connpass](https://tlug.connpass.com/).
 More pictures
 
 ![Alberto Tomita, network security expert. computer vision PhD. Beer drinker](alberto.png)
+
+---
+
+The US media portrays change as a conflict where one side wins and one side loses.
+At a friendly beer hall in Japan, I was reminded that real change comes
+from helping strangers, people different from you.
+Innovation and change comes from small exchanges of different ideas,
+one person in our vast world at a time.
 
