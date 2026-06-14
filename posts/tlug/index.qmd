@@ -30,7 +30,7 @@ Small discussions turned into big ideas.
 - Graph theory in the pharmaceutical industry
 - Bayesian inference versus language models
 
-![Build, create and build some more. Jim Tittsler, Stephen Turnbull, Cliff Miller, Craig Oda, Bryan ](jim-stephen-cliff-bryan.png)
+![Build, create and build some more. Jim Tittsler, Stephen Turnbull, Cliff Miller, Craig Oda, Bryan Clemens, and tell me the names of the other people](jim-stephen-cliff-bryan.png)
 
 After the 2nd dai-jouki (large beer mug), the nostalgic tales of the past
 came up.  We discussed:
