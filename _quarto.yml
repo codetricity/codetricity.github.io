@@ -8,6 +8,7 @@ website:
   title: "Oda World"
   description: "Technology, innovation, and ideas across borders."
   site-url: https://codetricity.github.io
+  favicon: assets/favicon.ico
   image: assets/logo-square.png
   navbar:
     background: light
